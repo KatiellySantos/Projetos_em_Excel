@@ -1,12 +1,12 @@
 # 📊 Projetos em Excel
 
 Repositório dedicado a projetos desenvolvidos em Microsoft Excel, com foco em análises, dashboards, visualização de dados e boas práticas de modelagem.
-Os arquivos apresentam desde ferramentas de controle até dashboards completos, utilizando tabelas dinâmicas, métricas, automações e análises comparativas.
+Os arquivos apresentam desde ferramentas de controle até dashboards completos, utilizando tabelas dinâmicas, métricas e análises comparativas.
 
 ---
 
 **⚠️ Arquivos com Macros**
-- Alguns projetos utilizam VBA (macros).
+- Projetos utilizam VBA (macros).
 - Para funcionamento correto:
   Clique em **“Ativar Conteúdo”** ao abrir o arquivo;
 - Caso necessário, adicione o arquivo a uma pasta confiável;
@@ -14,6 +14,7 @@ Os arquivos apresentam desde ferramentas de controle até dashboards completos, 
 - Projetos com macros estarão sinalizados com: (contém macros)
 
 **📂 Projetos Desenvolvidos**
+
 **1.** [Ferramenta de Controle de Investimentos](https://github.com/KatiellySantos/Projetos_em_Excel/tree/c89594b7385c44bbb89dfcef1a14ba375b2784cd/1.%20Ferramenta%20de%20Controle%20de%20Investimentos) - 
 Planilha criada para centralizar e analisar o desempenho de uma carteira de investimentos. Inclui cálculos de rentabilidade, lucro/prejuízo, situação dos ativos e visão temporal por ano e mês. Oferece KPIs, gráficos e tabelas dinâmicas que mostram retornos, comparações entre categorias e evolução da carteira entre 2020 e 2025.
 
