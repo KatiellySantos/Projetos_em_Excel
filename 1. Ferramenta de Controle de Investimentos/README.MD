@@ -38,4 +38,4 @@ Criar uma planilha funcional que permita o controle pessoal de investimentos sem
 
 ![Imagem_01.png](https://github.com/KatiellySantos/Projetos_em_Excel/blob/f8dc6ceff24c268e3e3a0c9dbe47cc8d0ea4ae4f/1.%20Ferramenta%20de%20Controle%20de%20Investimentos/Imagem_01.png?raw=true)
 
-
+<img src="https://github.com/KatiellySantos/Projetos_em_Excel/blob/f8dc6ceff24c268e3e3a0c9dbe47cc8d0ea4ae4f/1.%20Ferramenta%20de%20Controle%20de%20Investimentos/Imagem_01.png" width="300">
