@@ -37,3 +37,5 @@ Criar uma planilha funcional que permita o controle pessoal de investimentos sem
 - `Controle_Investimentos.xlsm` – Arquivo principal com macros.
 - `/imagens` – Prints e telas do projeto (se desejar adicionar).
 
+![Imagem do projeto](./Output/Imagem03.png)
+
