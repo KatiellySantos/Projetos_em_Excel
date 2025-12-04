@@ -18,7 +18,7 @@ Os arquivos apresentam desde ferramentas de controle até dashboards completos, 
 **1. Ferramenta de Controle de Investimentos** - 
 Planilha criada para centralizar e analisar o desempenho de uma carteira de investimentos. Inclui cálculos de rentabilidade, lucro/prejuízo, situação dos ativos e visão temporal por ano e mês. Oferece KPIs, gráficos e tabelas dinâmicas que mostram retornos, comparações entre categorias e evolução da carteira entre 2020 e 2025.
 
-**1.** [Ferramenta de Controle de Investimentos](https://github.com/KatiellySantos/Projetos_em_Excel/tree/c89594b7385c44bbb89dfcef1a14ba375b2784cd/1.%20Ferramenta%20de%20Controle%20de%20Investimentos)
+**1.** [Ferramenta de Controle de Investimentos](https://github.com/KatiellySantos/Projetos_em_Excel/tree/c89594b7385c44bbb89dfcef1a14ba375b2784cd/1.%20Ferramenta%20de%20Controle%20de%20Investimentos) - 
 Planilha criada para centralizar e analisar o desempenho de uma carteira de investimentos. Inclui cálculos de rentabilidade, lucro/prejuízo, situação dos ativos e visão temporal por ano e mês. Oferece KPIs, gráficos e tabelas dinâmicas que mostram retornos, comparações entre categorias e evolução da carteira entre 2020 e 2025.
 
 **2. Dashboard de Vendas do Xbox** -
