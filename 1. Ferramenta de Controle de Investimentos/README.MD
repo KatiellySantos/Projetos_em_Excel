@@ -38,4 +38,4 @@ Criar uma planilha funcional que permita o controle pessoal de investimentos sem
 - `/imagens` – Prints e telas do projeto (se desejar adicionar).
 
 
-![Imagem_01.png](1. Ferramenta de Controle de Investimentos/Imagem_01.png)
+![Imagem03](https://github.com/user-attachments/assets/7052b83c-363a-4d74-9438-a592fdb17527)
