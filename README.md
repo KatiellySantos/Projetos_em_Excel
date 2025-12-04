@@ -36,3 +36,9 @@ Dashboard desenvolvido para analisar assinaturas e receitas dos Passes de Tempor
 - Baixe o arquivo .xlsx ou .xlsm
 - Abra no Excel (2016 ou superior)
 - Ative conteúdo/macro quando solicitado
+
+
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Dashboard](https://img.shields.io/badge/Dashboards-000000?style=for-the-badge&logo=tableau&logoColor=white)
+![Analytics](https://img.shields.io/badge/Data%20Analytics-1E90FF?style=for-the-badge&logo=google-analytics&logoColor=white)
+
