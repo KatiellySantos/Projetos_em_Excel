@@ -31,6 +31,9 @@ Habilite as macros ao abrir para que o dashboard funcione corretamente.
 ## 📌 Objetivo do Projeto
 Criar um dashboard profissional e interativo dentro do Excel, mostrando como transformar dados brutos em informações visuais relevantes para análise de vendas.
 
-- `Dashboard_Vendas_Xbox.xlsm` – Arquivo principal com o dashboard.
-- `/imagens` – Pré-visualizações do relatório.
+📥 Download do Arquivo
+[Dashboard de Vendas do Xbox](https://github.com/KatiellySantos/Projetos_em_Excel/blob/d754f01fffae44329f125f197e1e387ded29ac07/2.%20Dashboard%20de%20Vendas%20do%20Xbox/Criando%20um%20Dashboard%20de%20Vendas%20do%20Xbox%20com%20Excel.xlsm)
+
+<img src="https://github.com/KatiellySantos/Projetos_em_Excel/blob/d754f01fffae44329f125f197e1e387ded29ac07/2.%20Dashboard%20de%20Vendas%20do%20Xbox/Imagem_02.png" width="500">
+
 
